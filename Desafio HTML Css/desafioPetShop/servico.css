@@ -1,0 +1,61 @@
+.servico{
+    width: 850px;
+    height: 1100px;
+    display: block;
+    color: #3c184e;
+    text-align: center;
+    margin: auto;
+
+}
+.servico h2{
+    text-align: center;
+    margin-bottom: 30px;
+
+
+}
+.desServico{
+    
+}
+.desServico p{
+    text-align: justify;
+}
+.desServico span{
+    font-weight: bold;
+
+    
+}
+
+.carrosel {
+    display: inline-block;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.685);
+    background-size: cover;
+    margin-top: 25px;
+}
+.carrosel img{
+    padding: 0px;
+    margin: 0px;
+}
+.faixa{
+    width: 100%;
+    height: 300px;
+    background-color: #3c184e;
+    color: white;
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+    
+
+}
+.faixa img{
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+}
+.faixaConteudo{
+    margin: auto;
+    display: block;
+    width: 450px;
+}

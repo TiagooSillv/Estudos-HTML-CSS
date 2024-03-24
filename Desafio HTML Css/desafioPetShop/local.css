@@ -1,0 +1,27 @@
+.local{
+    margin: auto;
+    height: auto;
+    width: 850px;
+    text-align: center;
+}
+.mapa{
+    
+}
+.rodaPe{
+    background-color: #3c184e;
+    width: 100%;
+    height: 40px;
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    display: flex;
+
+}
+.rodaPe p{
+    margin: auto;
+
+}
+.rodaPe span{
+    font-weight: bold;
+
+}

@@ -1,0 +1,21 @@
+.patrocinio{
+    width: 850px;
+    height: auto;
+    display: block;
+    color: #000000;
+    text-align: center;
+    margin: auto;
+}
+.marcas{
+    display: block;
+    width: 900px;
+    margin: auto;
+    
+}
+.marcas h2{
+    margin-top: 30px;
+    
+}
+.marcas img{
+    margin: 10px 30px;
+}
