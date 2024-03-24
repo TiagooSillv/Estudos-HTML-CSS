@@ -1,0 +1,39 @@
+div{
+    width: 600px;
+    text-align: center;
+    place-items: center;
+    margin: auto;
+    color: white;
+    
+
+}
+p{
+    line-height: 25px;
+}
+a{
+    text-decoration: none;
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 0px 10px;
+    margin: auto;
+}
+img{
+    padding: auto;
+    margin-bottom: 15px;
+}
+li{
+    display: 	inline-block;
+}
+body{
+    background-color: #cf9c7ab2;
+    align-items: center;
+    
+}
+.paesBolos{
+    background-color: rgb(255, 119, 70);
+    
+}
+.contato{
+    color:black
+}
